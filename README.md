@@ -22,6 +22,7 @@ I have been pushing all my learning progress and projects to my GitHub repositor
 ## 📫 Contact
 - **Email:** jasurdev1404@gmail.com  
 - **GitHub:** [Otelbayev](https://github.com/Otelbayev)
+- - **LinkedIn:** https://www.linkedin.com/in/jasurbek-otelbayev/
 
 ---
 
